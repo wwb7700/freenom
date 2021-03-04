@@ -25,18 +25,6 @@ Documentation: [English version](https://github.com/luolongfei/freenom/blob/mast
 
 [🤣  本项目最简单的使用方法](#--本项目最简单的使用方法)
 
-[🍺  信仰](#--信仰)
-
-[❤  捐赠 Donate](#--捐赠-donate)
-
-[📋  捐赠名单 Donate List](#--捐赠名单-donate-list)
-
-[🌚  作者](#--作者)
-
-[🎉  鸣谢](#--鸣谢)
-
-[🥝  开源协议](#--开源协议)
-
 
 ### 📃  前言
 众所周知，Freenom是地球上唯一一个提供免费顶级域名的商家，不过需要每年续期，每次续期最多一年。由于我申请了一堆域名，而且不是同一时段申请的，
@@ -293,41 +281,3 @@ $ cd /data/wwwroot/freenom/ && php run
 6、心里默念作者最帅，给个`star`并把本项目推荐给更多的人，用的人越多作者更新的动力越足
 
 好了，做完上面六步后就不需要其它任何操作了。现在每天上午十点左右`Github Actions`会自动触发执行本项目，注意查收域名相关邮件。
-
-
-<hr>
-
-遇到任何问题或 Bug 欢迎提 [issues](https://github.com/luolongfei/freenom/issues) （请按模板格式提`issues`，以便作者更快复现你的问题），
-如果`Freenom`改变算法导致此项目失效，请提 [issues](https://github.com/luolongfei/freenom/issues) 告知，我会及时修复，本项目长期维护。
-欢迎`star`~
-
-### 🍺  信仰
-
-![南京市民李先生](https://s2.ax1x.com/2020/02/04/1Bm3Ps.jpg "南京市民李先生")
-> 
-> 认真是我们参与这个社会的方式，认真是我们改变这个社会的方式。  ——李志
-
-### ❤  捐赠 Donate
-如果你觉得本项目真的有帮助到你并且想回馈作者，感谢你的捐赠。
-#### PayPal: [https://www.paypal.me/mybsdc](https://www.paypal.me/mybsdc)
-> Every time you spend money, you're casting a vote for the kind of world you want. -- Anna Lappe
-
-![pay](https://s2.ax1x.com/2020/01/31/1394at.png "Donate")
-
-![每一次你花的钱都是在为你想要的世界投票。](https://s2.ax1x.com/2020/01/31/13P8cF.jpg)
-
-**你的star或者小额打赏是我长期维护此项目的动力所在，由衷感谢每一位支持者，“每一次你花的钱都是在为你想要的世界投票”。**
-
-### 📋  捐赠名单 Donate List
-非常感谢「 [这些用户](https://github.com/luolongfei/freenom/wiki/Donate-List) 」对本项目的捐赠支持！
-
-### 🌚  作者
-- 主程序以及框架：[@luolongfei](https://github.com/luolongfei)
-- 英文版文档：[@肖阿姨](#)
-
-### 🎉  鸣谢
-- [PHPMailer](https://github.com/PHPMailer/PHPMailer/) （邮件发送功能依赖此库）
-- [guzzle](https://github.com/guzzle/guzzle) （Curl库）
-
-### 🥝  开源协议
-[MIT](https://opensource.org/licenses/mit-license.php)
